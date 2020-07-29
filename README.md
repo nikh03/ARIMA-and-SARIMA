@@ -1,5 +1,5 @@
 # ARIMA-and-SARIMA
-In this I predicted the future industrial production of 2 years using the prevoius years of data.
+In this I predicted the future industrial production for 2 years using the prevoius years of data.
 
 Industrial production of electric and gas utilities in the United States, from the years 1985–2018. This data measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.
 
